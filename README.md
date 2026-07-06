@@ -20,3 +20,5 @@ Welcome to my GitHub profile! I am a physics student who loves exploring how phy
 ---
 
 *“An expert is a person who has made all the mistakes that can be made in a very narrow field.” – Niels Bohr*
+
+![Statistik GitHub Nadhif](https://github-readme-stats.vercel.app/api?username=Nadhif-Arkananta&show_icons=true&theme=radical)
