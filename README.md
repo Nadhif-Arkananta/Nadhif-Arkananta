@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I am a physics student who loves exploring how phy
 ### 🛠️ My Learning Journey
 *   **Exploring**: Instrumentation & Embedded Systems
 *   **Hardware (To Learn/Tinker)**: Microcontrollers (Arduino/Raspberry Pi), Sensors & IMUs
-*   **Languages & Tools**: Learning Python & Git/GitHub
+*  **Languages & Tools**:
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 ---
 
@@ -20,5 +21,4 @@ Welcome to my GitHub profile! I am a physics student who loves exploring how phy
 ---
 
 *“An expert is a person who has made all the mistakes that can be made in a very narrow field.” – Niels Bohr*
-
-![Statistik GitHub Nadhif](https://github-readme-stats.vercel.app/api?username=Nadhif-Arkananta&show_icons=true&theme=radical)
+  
